@@ -34,7 +34,7 @@
 # NOTE: 
 
 
-SOLUTION: PYTHON3
+# SOLUTION: PYTHON3
 from typing import List
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
